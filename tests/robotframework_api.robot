@@ -88,6 +88,8 @@ Check editor
     sleep  2
     click button   5.0.1
     sleep  2
+    click button   Open Maximized
+    sleep  2
     click button   TestSuite.robot
     sleep  2
     click button   keywords.resource
